@@ -1,9 +1,7 @@
-
 public class Binary {
 
 	/*
 	 * Add and subtract binary numbers 
-	 * Just for fun
 	 */
 	
 	/**
