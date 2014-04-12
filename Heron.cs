@@ -6,7 +6,8 @@ using System.Text;
 namespace Heron
 {
     /// <summary>
-    /// Heron method to calculate the square and nth root of a given number
+    /// Heron method to calculate the 
+    /// square and nth root of a given number
     /// </summary>
 
     public class Heron
