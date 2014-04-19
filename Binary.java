@@ -71,7 +71,7 @@ public class Binary {
 		
 		for(int i = a.length() - 1; i >= 0; i--){
 			sum = carry;
-			sum += (a.charAt(i) - 48) + (b.charAt(i) - 48);
+			sum += (a.charAt(i) + b.charAt(i) - 0x60);
 			carry = sum >> 1;
 			sum &= 1;
 			
